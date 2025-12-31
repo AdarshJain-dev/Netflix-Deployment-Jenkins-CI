@@ -1,5 +1,7 @@
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+<img width="1918" height="885" alt="image" src="https://github.com/user-attachments/assets/b5bc9e4f-14cc-49d3-8d23-90aab961b920" />
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/edb2e49d-44f8-4702-8d06-267db2b2beeb" />
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
